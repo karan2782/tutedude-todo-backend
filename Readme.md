@@ -9,11 +9,11 @@
 
 ### After Running this you can test api in postman:
 #### Endpoints:
-- Create a todo, Method will be POST --> api/todos
-- Get all todos , Method will be GET --> api/todos
-- Get a specific todo by its id, Method will be GET --> api/todos/:id
-- Update a todo by its id, Method will be PATCH --> api/todos/:id
-- Delete a todo by its id , Method will be DELETE --> api/todos/:id
+- Create a todo, Method will be POST --> /todos
+- Get all todos , Method will be GET --> /todos
+- Get a specific todo by its id, Method will be GET --> /todos/:id
+- Update a todo by its id, Method will be PATCH --> /todos/:id
+- Delete a todo by its id , Method will be DELETE --> /todos/:id
 
 
 ### Structure of the repo 
